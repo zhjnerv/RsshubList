@@ -145,7 +145,7 @@ if __name__ == "__main__":
     apps = load_check_app()
     database = load_database()
     servers = load_servers()
-    """
+
     for server in servers:
         timestamp = int(time.time())
         if server in database:
@@ -169,5 +169,5 @@ if __name__ == "__main__":
 
         with open("database.json", "w") as f:
             f.write(json.dumps(database))
-    """
+
     build_data()
