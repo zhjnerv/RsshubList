@@ -6,7 +6,7 @@
 ## SERVERS
 
 |  RSSHUB   | STATUS  | UPDATED  | ERROR  | {{server_apps}} |  
-|  ----  | ----  | ----  | ----  | ----  | {{server_tabs}} |  
+|  ----  | ----  | ----  | ----  | {{server_tabs}} |  
 {{server_list}}  
 
 updated_at: {{generated_at}}  

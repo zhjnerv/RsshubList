@@ -47,14 +47,14 @@ def check_rss_app(url, app):
 
 
 def load_check_app():
-    with open("app.json") as f:
+    with open("app.json", encoding='utf8') as f:
         apps = json.loads(f.read())
 
         return apps
 
 
 def load_database():
-    with open("database.json") as f:
+    with open("database.json", encoding='utf8') as f:
         try:
             data = json.loads(f.read())
             print("load %s data in database file" % len(data))
@@ -68,9 +68,9 @@ def load_database():
 
 def load_servers():
     servers = []
-    with open("servers.txt") as f:
+    with open("servers.txt", encoding='utf8') as f:
         for line in f.readlines():
-            server = line.replace("\n", "")
+            server = line.replace("\n", "").replace(" ", "")
             if server != "" and server not in servers:
                 servers.append(server)
 
@@ -98,7 +98,7 @@ def build_data():
                 continue
             else:
                 server["status"] = "DOWN"
-                server['last_error'] = timestamp_to_str(
+                server['last_error_time'] = timestamp_to_str(
                     data['last_error_time'])
                 server['apps'] = {}
         else:
@@ -108,23 +108,25 @@ def build_data():
 
         result.append(server)
 
-    with open("docs/data.json", "w") as f:
+    with open("docs/data.json", "w", encoding='utf8') as f:
         f.write(json.dumps(result))
 
         print("build data file to docs/data.json")
 
-    with open("README.template.md", "r") as fr:
+    with open("README.template.md", "r", encoding='utf8') as fr:
         template = fr.read()
-        template.replace("{{generated_at}}",
+        
+        template = template.replace("{{generated_at}}",
                          timestamp_to_str(int(time.time())))
         apps = load_check_app()
-        template.replace("{{server_apps}}", " | ".join(
-            [app.upper() for app in apps]))
-        template.replace("{{server_tabs}}", " | ".join(["----" for _ in apps]))
+        template = template.replace("{{server_apps}}", " | ".join(
+            [app['name'].upper() for app in apps]))
+        template = template.replace("{{server_tabs}}", " | ".join(["----" for _ in apps]))
         table = ""
         for d in result:
+            print(d)
             row = "| %s | %s | %s | %s |" % (
-                d['url'], d['status'], d['last_update_time'], d['last_error_time'])
+                d['url'], d['status'], d['last_check_time'], d['last_error_time'])
             for _, value in d['apps'].items():
                 if value:
                     row += "OK"
@@ -132,9 +134,9 @@ def build_data():
             row += "  \n"
             table += row
 
-        template.replace("{{server_list}}", table)
-        with open("README.md", "w") as fw:
-            fw.write(table)
+        template = template.replace("{{server_list}}", table)
+        with open("README.md", "w", encoding='utf8') as fw:
+            fw.write(template)
         print("generate readme.md file")
 
 
@@ -143,7 +145,7 @@ if __name__ == "__main__":
     apps = load_check_app()
     database = load_database()
     servers = load_servers()
-
+    """
     for server in servers:
         timestamp = int(time.time())
         if server in database:
@@ -167,5 +169,5 @@ if __name__ == "__main__":
 
         with open("database.json", "w") as f:
             f.write(json.dumps(database))
-
+    """
     build_data()
