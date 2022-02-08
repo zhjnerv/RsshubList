@@ -111,6 +111,8 @@ def build_data():
     with open("docs/data.json","w") as f:
         f.write(json.dumps(result))
 
+        print("build data file to docs/data.json")
+
 
 if __name__ == "__main__":
  
