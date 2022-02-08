@@ -159,8 +159,8 @@ if __name__ == "__main__":
             data['last_error_time'] = timestamp
             data['last_error_code'] = check_result
         else:
-            data['last_error_time'] = None
-            data['last_error_code'] = None
+            data['last_error_time'] = ""
+            data['last_error_code'] = ""
             data['apps'] = {}
             for app in apps:
                 data['apps'][app['name']] = check_rss_app(server, app['path'])
