@@ -87,7 +87,7 @@ def build_data():
     database = load_database()
 
     result = []
-    for _,data in database.items():
+    for _, data in database.items():
         server = {
             "url": data['url'],
             "last_check_time": timestamp_to_str(data['last_check_time'])
@@ -108,14 +108,38 @@ def build_data():
 
         result.append(server)
 
-    with open("docs/data.json","w") as f:
+    with open("docs/data.json", "w") as f:
         f.write(json.dumps(result))
 
         print("build data file to docs/data.json")
 
+    with open("README.template.md", "r") as fr:
+        template = fr.read()
+        template.replace("{{generated_at}}",
+                         timestamp_to_str(int(time.time())))
+        apps = load_check_app()
+        template.replace("{{server_apps}}", " | ".join(
+            [app.upper() for app in apps]))
+        template.replace("{{server_tabs}}", " | ".join(["----" for _ in apps]))
+        table = ""
+        for d in result:
+            row = "| %s | %s | %s | %s |" % (
+                d['url'], d['status'], d['last_update_time'], d['last_error_time'])
+            for _, value in d['apps'].items():
+                if value:
+                    row += "OK"
+                row += "|"
+            row += "  \n"
+            table += row
+
+        template.replace("{{server_list}}", table)
+        with open("README.md", "w") as fw:
+            fw.write(table)
+        print("generate readme.md file")
+
 
 if __name__ == "__main__":
- 
+
     apps = load_check_app()
     database = load_database()
     servers = load_servers()
@@ -143,5 +167,5 @@ if __name__ == "__main__":
 
         with open("database.json", "w") as f:
             f.write(json.dumps(database))
-    
+
     build_data()
