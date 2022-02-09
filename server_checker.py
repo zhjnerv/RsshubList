@@ -93,7 +93,7 @@ def build_data():
             "last_check_time": timestamp_to_str(data['last_check_time'])
         }
         if data['last_error_time'] is not None:
-            if int(time.time()) - data['last_error_time'] > 6000:
+            if int(time.time()) - int(data['last_error_time']) > 6000:
                 print("server down skip")
                 continue
             else:
