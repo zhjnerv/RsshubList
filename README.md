@@ -7,25 +7,25 @@
 
 |  RSSHUB   | STATUS  | UPDATED  | ERROR  | TWITTER |  
 |  ----  | ----  | ----  | ----  | ---- |  
-| http://rsshub.sksren.com/ | UP | 2022-03-05 15:19:42 | None |OK|  
-| https://rsshub.170601.xyz/ | UP | 2022-03-05 15:19:43 | None ||  
-| https://rss.qiuyuair.com/ | UP | 2022-03-05 15:19:47 | None ||  
-| https://rss.injahow.cn/ | UP | 2022-03-05 15:19:48 | None ||  
-| https://rss.feiyuyu.net/ | UP | 2022-03-05 15:19:50 | None ||  
-| https://rss.itggg.cn/ | UP | 2022-03-05 15:19:55 | None ||  
-| https://rss.shab.fun/ | UP | 2022-03-05 15:20:14 | None |OK|  
-| https://rsshub.uneasy.win/ | UP | 2022-03-05 15:20:17 | None |OK|  
-| https://rsshub.rssforever.com/ | UP | 2022-03-05 15:20:19 | None |OK|  
-| http://138.68.53.201/ | UP | 2022-03-05 15:20:22 | None ||  
-| http://138.68.231.193/ | UP | 2022-03-05 15:20:23 | None ||  
-| http://138.68.244.107/ | UP | 2022-03-05 15:20:23 | None ||  
-| http://121.36.212.92/ | UP | 2022-03-05 15:20:23 | None ||  
-| https://rsshub.liumingye.cn/ | UP | 2022-03-05 15:20:24 | None ||  
-| https://rss.dov.moe/ | UP | 2022-03-05 15:20:35 | None ||  
-| https://rss.unl.li/ | UP | 2022-03-05 15:20:41 | None ||  
-| https://guimi.herokuapp.com/ | UP | 2022-03-05 15:20:42 | None ||  
-| https://rss.hee.ink/ | UP | 2022-03-05 15:20:43 | None |OK|  
-| https://rsshub.zsliang.me/ | UP | 2022-03-05 15:20:22 | None |OK|  
+| http://rsshub.sksren.com/ | UP | 2022-03-06 15:19:42 | None |OK|  
+| https://rsshub.170601.xyz/ | UP | 2022-03-06 15:19:42 | None ||  
+| https://rss.qiuyuair.com/ | UP | 2022-03-06 15:19:46 | None ||  
+| https://rss.injahow.cn/ | UP | 2022-03-06 15:19:47 | None ||  
+| https://rss.feiyuyu.net/ | DOWN | 2022-03-06 15:19:48 | 2022-03-06 15:19:48 |  
+| https://rss.itggg.cn/ | UP | 2022-03-06 15:19:49 | None ||  
+| https://rss.shab.fun/ | UP | 2022-03-06 15:20:02 | None |OK|  
+| https://rsshub.uneasy.win/ | UP | 2022-03-06 15:20:04 | None |OK|  
+| https://rsshub.rssforever.com/ | UP | 2022-03-06 15:20:07 | None |OK|  
+| http://138.68.53.201/ | UP | 2022-03-06 15:20:11 | None ||  
+| http://138.68.231.193/ | UP | 2022-03-06 15:20:11 | None ||  
+| http://138.68.244.107/ | UP | 2022-03-06 15:20:11 | None ||  
+| http://121.36.212.92/ | UP | 2022-03-06 15:20:11 | None ||  
+| https://rsshub.liumingye.cn/ | UP | 2022-03-06 15:20:12 | None ||  
+| https://rss.dov.moe/ | UP | 2022-03-06 15:20:24 | None ||  
+| https://rss.unl.li/ | UP | 2022-03-06 15:20:29 | None ||  
+| https://guimi.herokuapp.com/ | UP | 2022-03-06 15:20:30 | None ||  
+| https://rss.hee.ink/ | UP | 2022-03-06 15:20:31 | None |OK|  
+| https://rsshub.zsliang.me/ | UP | 2022-03-06 15:20:10 | None |OK|  
   
 
-updated_at: 2022-03-05 15:20:45  
+updated_at: 2022-03-06 15:20:36  
