@@ -7,25 +7,25 @@
 
 |  RSSHUB   | STATUS  | UPDATED  | ERROR  | TWITTER |  
 |  ----  | ----  | ----  | ----  | ---- |  
-| http://rsshub.sksren.com/ | UP | 2022-10-25 15:31:47 | None |OK|  
-| https://rsshub.170601.xyz/ | DOWN | 2022-10-25 15:31:47 | 2022-10-25 15:31:47 |  
-| https://rss.qiuyuair.com/ | DOWN | 2022-10-25 15:31:47 | 2022-10-25 15:31:47 |  
-| https://rss.injahow.cn/ | UP | 2022-10-25 15:31:47 | None ||  
-| https://rss.feiyuyu.net/ | UP | 2022-10-25 15:31:49 | None ||  
-| https://rss.itggg.cn/ | UP | 2022-10-25 15:31:54 | None ||  
-| https://rss.shab.fun/ | UP | 2022-10-25 15:32:05 | None |OK|  
-| https://rsshub.uneasy.win/ | UP | 2022-10-25 15:32:07 | None |OK|  
-| https://rsshub.rssforever.com/ | UP | 2022-10-25 15:32:10 | None |OK|  
-| http://138.68.53.201/ | UP | 2022-10-25 15:32:12 | None ||  
-| http://138.68.231.193/ | UP | 2022-10-25 15:32:12 | None ||  
-| http://138.68.244.107/ | UP | 2022-10-25 15:32:12 | None ||  
-| http://121.36.212.92/ | UP | 2022-10-25 15:32:12 | None ||  
-| https://rsshub.liumingye.cn/ | UP | 2022-10-25 15:32:13 | None |OK|  
-| https://rss.dov.moe/ | DOWN | 2022-10-25 15:32:22 | 2022-10-25 15:32:22 |  
-| https://rss.unl.li/ | DOWN | 2022-10-25 15:32:22 | 2022-10-25 15:32:22 |  
-| https://guimi.herokuapp.com/ | DOWN | 2022-10-25 15:32:22 | 2022-10-25 15:32:22 |  
-| https://rss.hee.ink/ | DOWN | 2022-10-25 15:32:32 | 2022-10-25 15:32:32 |  
-| https://rsshub.zsliang.me/ | UP | 2022-10-25 15:32:12 | None |OK|  
+| http://rsshub.sksren.com/ | UP | 2022-10-26 15:25:30 | None |OK|  
+| https://rsshub.170601.xyz/ | DOWN | 2022-10-26 15:25:30 | 2022-10-26 15:25:30 |  
+| https://rss.qiuyuair.com/ | DOWN | 2022-10-26 15:25:30 | 2022-10-26 15:25:30 |  
+| https://rss.injahow.cn/ | UP | 2022-10-26 15:25:30 | None ||  
+| https://rss.feiyuyu.net/ | UP | 2022-10-26 15:25:33 | None ||  
+| https://rss.itggg.cn/ | UP | 2022-10-26 15:25:38 | None ||  
+| https://rss.shab.fun/ | UP | 2022-10-26 15:25:50 | None |OK|  
+| https://rsshub.uneasy.win/ | UP | 2022-10-26 15:25:53 | None |OK|  
+| https://rsshub.rssforever.com/ | UP | 2022-10-26 15:25:58 | None |OK|  
+| http://138.68.53.201/ | UP | 2022-10-26 15:26:01 | None ||  
+| http://138.68.231.193/ | UP | 2022-10-26 15:26:02 | None ||  
+| http://138.68.244.107/ | UP | 2022-10-26 15:26:02 | None ||  
+| http://121.36.212.92/ | UP | 2022-10-26 15:26:02 | None ||  
+| https://rsshub.liumingye.cn/ | UP | 2022-10-26 15:26:04 | None ||  
+| https://rss.dov.moe/ | DOWN | 2022-10-26 15:26:18 | 2022-10-26 15:26:18 |  
+| https://rss.unl.li/ | DOWN | 2022-10-26 15:26:19 | 2022-10-26 15:26:19 |  
+| https://guimi.herokuapp.com/ | DOWN | 2022-10-26 15:26:19 | 2022-10-26 15:26:19 |  
+| https://rss.hee.ink/ | DOWN | 2022-10-26 15:26:29 | 2022-10-26 15:26:29 |  
+| https://rsshub.zsliang.me/ | UP | 2022-10-26 15:26:01 | None |OK|  
   
 
-updated_at: 2022-10-25 15:32:33  
+updated_at: 2022-10-26 15:26:30  
