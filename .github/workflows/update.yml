@@ -26,8 +26,8 @@ jobs:
         python server_checker.py
     - name: Update Repo And Push
       run: |
-        git config --global user.email "kamino@imea.me"
-        git config --global user.name "kamino"
+        git config --global user.email "zhjwork@gmail.com"
+        git config --global user.name "zhjnerv"
         git add .
         git commit -m "update by github actions" || true
         git push origin main 
