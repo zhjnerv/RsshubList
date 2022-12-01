@@ -17,3 +17,6 @@ https://rss.dov.moe/
 https://rss.unl.li/
 https://guimi.herokuapp.com/
 https://rss.hee.ink/
+https://hub.slarker.me/
+http://i.scnu.edu.cn/sub
+http://rsshubusr.herokuapp.com/
