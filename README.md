@@ -7,28 +7,28 @@
 
 |  RSSHUB   | STATUS  | UPDATED  | ERROR  | TWITTER |  
 |  ----  | ----  | ----  | ----  | ---- |  
-| http://rsshub.sksren.com/ | DOWN | 2023-06-09 15:08:00 | 2023-06-09 15:08:00 |  
-| https://rsshub.170601.xyz/ | DOWN | 2023-06-09 15:08:00 | 2023-06-09 15:08:00 |  
-| https://rss.qiuyuair.com/ | DOWN | 2023-06-09 15:08:08 | 2023-06-09 15:08:08 |  
-| https://rss.injahow.cn/ | DOWN | 2023-06-09 15:08:08 | 2023-06-09 15:08:08 |  
-| https://rss.feiyuyu.net/ | UP | 2023-06-09 15:08:12 | None |OK|  
-| https://rss.itggg.cn/ | DOWN | 2023-06-09 15:08:14 | 2023-06-09 15:08:14 |  
-| https://rss.shab.fun/ | UP | 2023-06-09 15:08:18 | None |OK|  
-| https://rsshub.uneasy.win/ | DOWN | 2023-06-09 15:08:22 | 2023-06-09 15:08:22 |  
-| https://rsshub.rssforever.com/ | UP | 2023-06-09 15:08:22 | None |OK|  
-| http://138.68.53.201/ | UP | 2023-06-09 15:08:24 | None ||  
-| http://138.68.231.193/ | UP | 2023-06-09 15:08:24 | None ||  
-| http://138.68.244.107/ | UP | 2023-06-09 15:08:25 | None ||  
-| http://121.36.212.92/ | DOWN | 2023-06-09 15:08:25 | 2023-06-09 15:08:25 |  
-| https://rsshub.liumingye.cn/ | DOWN | 2023-06-09 15:08:35 | 2023-06-09 15:08:35 |  
-| https://rss.dov.moe/ | DOWN | 2023-06-09 15:08:36 | 2023-06-09 15:08:36 |  
-| https://rss.unl.li/ | DOWN | 2023-06-09 15:08:37 | 2023-06-09 15:08:37 |  
-| https://guimi.herokuapp.com/ | DOWN | 2023-06-09 15:08:47 | 2023-06-09 15:08:47 |  
-| https://rss.hee.ink/ | DOWN | 2023-06-09 15:08:47 | 2023-06-09 15:08:47 |  
-| https://rsshub.zsliang.me/ | UP | 2023-06-09 15:08:24 | None |OK|  
-| https://hub.slarker.me/ | UP | 2023-06-09 15:08:47 | None |OK|  
-| http://i.scnu.edu.cn/sub | UP | 2023-06-09 15:08:50 | None ||  
-| http://rsshubusr.herokuapp.com/ | DOWN | 2023-06-09 15:08:52 | 2023-06-09 15:08:52 |  
+| http://rsshub.sksren.com/ | DOWN | 2023-06-10 15:07:20 | 2023-06-10 15:07:20 |  
+| https://rsshub.170601.xyz/ | DOWN | 2023-06-10 15:07:20 | 2023-06-10 15:07:20 |  
+| https://rss.qiuyuair.com/ | DOWN | 2023-06-10 15:07:25 | 2023-06-10 15:07:25 |  
+| https://rss.injahow.cn/ | DOWN | 2023-06-10 15:07:25 | 2023-06-10 15:07:25 |  
+| https://rss.feiyuyu.net/ | UP | 2023-06-10 15:07:25 | None |OK|  
+| https://rss.itggg.cn/ | DOWN | 2023-06-10 15:07:27 | 2023-06-10 15:07:27 |  
+| https://rss.shab.fun/ | UP | 2023-06-10 15:07:28 | None |OK|  
+| https://rsshub.uneasy.win/ | DOWN | 2023-06-10 15:07:31 | 2023-06-10 15:07:31 |  
+| https://rsshub.rssforever.com/ | UP | 2023-06-10 15:07:32 | None |OK|  
+| http://138.68.53.201/ | UP | 2023-06-10 15:07:34 | None ||  
+| http://138.68.231.193/ | UP | 2023-06-10 15:07:35 | None ||  
+| http://138.68.244.107/ | UP | 2023-06-10 15:07:35 | None ||  
+| http://121.36.212.92/ | DOWN | 2023-06-10 15:07:35 | 2023-06-10 15:07:35 |  
+| https://rsshub.liumingye.cn/ | DOWN | 2023-06-10 15:07:45 | 2023-06-10 15:07:45 |  
+| https://rss.dov.moe/ | DOWN | 2023-06-10 15:07:47 | 2023-06-10 15:07:47 |  
+| https://rss.unl.li/ | DOWN | 2023-06-10 15:07:47 | 2023-06-10 15:07:47 |  
+| https://guimi.herokuapp.com/ | DOWN | 2023-06-10 15:07:57 | 2023-06-10 15:07:57 |  
+| https://rss.hee.ink/ | DOWN | 2023-06-10 15:07:58 | 2023-06-10 15:07:58 |  
+| https://rsshub.zsliang.me/ | UP | 2023-06-10 15:07:34 | None |OK|  
+| https://hub.slarker.me/ | UP | 2023-06-10 15:07:58 | None |OK|  
+| http://i.scnu.edu.cn/sub | UP | 2023-06-10 15:08:00 | None ||  
+| http://rsshubusr.herokuapp.com/ | DOWN | 2023-06-10 15:08:02 | 2023-06-10 15:08:02 |  
   
 
-updated_at: 2023-06-09 15:08:52  
+updated_at: 2023-06-10 15:08:02  
