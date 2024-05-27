@@ -7,28 +7,28 @@
 
 |  RSSHUB   | STATUS  | UPDATED  | ERROR  | TWITTER |  
 |  ----  | ----  | ----  | ----  | ---- |  
-| http://rsshub.sksren.com/ | DOWN | 2024-05-26 15:09:59 | 2024-05-26 15:09:59 |  
-| https://rsshub.170601.xyz/ | DOWN | 2024-05-26 15:09:59 | 2024-05-26 15:09:59 |  
-| https://rss.qiuyuair.com/ | DOWN | 2024-05-26 15:09:59 | 2024-05-26 15:09:59 |  
-| https://rss.injahow.cn/ | UP | 2024-05-26 15:09:59 | None ||  
-| https://rss.feiyuyu.net/ | DOWN | 2024-05-26 15:10:01 | 2024-05-26 15:10:01 |  
-| https://rss.itggg.cn/ | DOWN | 2024-05-26 15:10:01 | 2024-05-26 15:10:01 |  
-| https://rss.shab.fun/ | UP | 2024-05-26 15:10:02 | None ||  
-| https://rsshub.uneasy.win/ | DOWN | 2024-05-26 15:10:11 | 2024-05-26 15:10:11 |  
-| https://rsshub.rssforever.com/ | UP | 2024-05-26 15:10:11 | None ||  
-| http://138.68.53.201/ | DOWN | 2024-05-26 15:10:15 | 2024-05-26 15:10:15 |  
-| http://138.68.231.193/ | DOWN | 2024-05-26 15:10:25 | 2024-05-26 15:10:25 |  
-| http://138.68.244.107/ | DOWN | 2024-05-26 15:10:35 | 2024-05-26 15:10:35 |  
-| http://121.36.212.92/ | DOWN | 2024-05-26 15:10:45 | 2024-05-26 15:10:45 |  
-| https://rsshub.liumingye.cn/ | UP | 2024-05-26 15:10:55 | None ||  
-| https://rss.dov.moe/ | DOWN | 2024-05-26 15:10:58 | 2024-05-26 15:10:58 |  
-| https://rss.unl.li/ | DOWN | 2024-05-26 15:10:58 | 2024-05-26 15:10:58 |  
-| https://guimi.herokuapp.com/ | DOWN | 2024-05-26 15:11:00 | 2024-05-26 15:11:00 |  
-| https://rss.hee.ink/ | DOWN | 2024-05-26 15:11:00 | 2024-05-26 15:11:00 |  
-| https://rsshub.zsliang.me/ | UP | 2024-05-26 15:10:14 | None |OK|  
-| https://hub.slarker.me/ | UP | 2024-05-26 15:11:00 | None ||  
-| http://i.scnu.edu.cn/sub | UP | 2024-05-26 15:11:01 | None ||  
-| http://rsshubusr.herokuapp.com/ | DOWN | 2024-05-26 15:11:03 | 2024-05-26 15:11:03 |  
+| http://rsshub.sksren.com/ | DOWN | 2024-05-27 15:10:49 | 2024-05-27 15:10:49 |  
+| https://rsshub.170601.xyz/ | DOWN | 2024-05-27 15:10:49 | 2024-05-27 15:10:49 |  
+| https://rss.qiuyuair.com/ | DOWN | 2024-05-27 15:10:50 | 2024-05-27 15:10:50 |  
+| https://rss.injahow.cn/ | UP | 2024-05-27 15:10:50 | None ||  
+| https://rss.feiyuyu.net/ | DOWN | 2024-05-27 15:10:53 | 2024-05-27 15:10:53 |  
+| https://rss.itggg.cn/ | DOWN | 2024-05-27 15:10:53 | 2024-05-27 15:10:53 |  
+| https://rss.shab.fun/ | UP | 2024-05-27 15:10:54 | None ||  
+| https://rsshub.uneasy.win/ | DOWN | 2024-05-27 15:10:57 | 2024-05-27 15:10:57 |  
+| https://rsshub.rssforever.com/ | UP | 2024-05-27 15:10:58 | None ||  
+| http://138.68.53.201/ | DOWN | 2024-05-27 15:11:02 | 2024-05-27 15:11:02 |  
+| http://138.68.231.193/ | DOWN | 2024-05-27 15:11:12 | 2024-05-27 15:11:12 |  
+| http://138.68.244.107/ | DOWN | 2024-05-27 15:11:22 | 2024-05-27 15:11:22 |  
+| http://121.36.212.92/ | DOWN | 2024-05-27 15:11:32 | 2024-05-27 15:11:32 |  
+| https://rsshub.liumingye.cn/ | UP | 2024-05-27 15:11:42 | None ||  
+| https://rss.dov.moe/ | DOWN | 2024-05-27 15:11:46 | 2024-05-27 15:11:46 |  
+| https://rss.unl.li/ | DOWN | 2024-05-27 15:11:46 | 2024-05-27 15:11:46 |  
+| https://guimi.herokuapp.com/ | DOWN | 2024-05-27 15:11:47 | 2024-05-27 15:11:47 |  
+| https://rss.hee.ink/ | DOWN | 2024-05-27 15:11:48 | 2024-05-27 15:11:48 |  
+| https://rsshub.zsliang.me/ | UP | 2024-05-27 15:11:01 | None |OK|  
+| https://hub.slarker.me/ | UP | 2024-05-27 15:11:48 | None ||  
+| http://i.scnu.edu.cn/sub | UP | 2024-05-27 15:11:49 | None ||  
+| http://rsshubusr.herokuapp.com/ | DOWN | 2024-05-27 15:11:51 | 2024-05-27 15:11:51 |  
   
 
-updated_at: 2024-05-26 15:11:03  
+updated_at: 2024-05-27 15:11:51  
