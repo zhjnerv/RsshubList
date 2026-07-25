@@ -7,18 +7,18 @@
 
 |  RSSHUB   | STATUS  | UPDATED  | ERROR  | TWITTER |  
 |  ----  | ----  | ----  | ----  | ---- |  
-| https://rss.injahow.cn/ | UP | 2026-07-24 16:35:19 | None ||  
-| https://rsshub.rssforever.com/ | UP | 2026-07-24 16:35:21 | None ||  
-| https://hub.slarker.me/ | UP | 2026-07-24 16:35:23 | None ||  
-| https://rsshub.rssforever.com | UP | 2026-07-24 16:35:23 | None ||  
-| https://rsshub.liumingye.cn | DOWN | 2026-07-24 16:35:24 | 2026-07-24 16:35:24 |  
-| https://hub.slarker.me | UP | 2026-07-24 16:35:24 | None ||  
-| https://rsshub.pseudoyu.com | DOWN | 2026-07-24 16:35:24 | 2026-07-24 16:35:24 |  
-| https://rsshub.top | UP | 2026-07-24 16:35:35 | None ||  
-| https://rsshub.ktachibana.party | UP | 2026-07-24 16:35:36 | None ||  
-| https://rss.owo.nz | DOWN | 2026-07-24 16:35:36 | 2026-07-24 16:35:36 |  
-| https://rss.peachyjoy.top | UP | 2026-07-24 16:35:36 | None ||  
-| https://rss.injahow.cn | UP | 2026-07-24 16:35:37 | None ||  
+| https://rss.injahow.cn/ | UP | 2026-07-25 15:57:46 | None ||  
+| https://rsshub.rssforever.com/ | UP | 2026-07-25 15:57:48 | None ||  
+| https://hub.slarker.me/ | UP | 2026-07-25 15:57:49 | None ||  
+| https://rsshub.rssforever.com | UP | 2026-07-25 15:57:50 | None ||  
+| https://rsshub.liumingye.cn | DOWN | 2026-07-25 15:57:50 | 2026-07-25 15:57:50 |  
+| https://hub.slarker.me | UP | 2026-07-25 15:57:51 | None ||  
+| https://rsshub.pseudoyu.com | DOWN | 2026-07-25 15:57:51 | 2026-07-25 15:57:51 |  
+| https://rsshub.top | UP | 2026-07-25 15:58:01 | None ||  
+| https://rsshub.ktachibana.party | UP | 2026-07-25 15:58:02 | None ||  
+| https://rss.owo.nz | DOWN | 2026-07-25 15:58:03 | 2026-07-25 15:58:03 |  
+| https://rss.peachyjoy.top | UP | 2026-07-25 15:58:04 | None ||  
+| https://rss.injahow.cn | UP | 2026-07-25 15:58:04 | None ||  
   
 
-updated_at: 2026-07-24 16:35:39  
+updated_at: 2026-07-25 15:58:05  
